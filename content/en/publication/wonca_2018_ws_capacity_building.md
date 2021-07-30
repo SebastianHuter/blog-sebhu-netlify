@@ -25,11 +25,11 @@ abstract: "**Background & Aim:** The World Organization of Family Doctors (WONCA
 **Conclusion:** In the end of the workshop, we expect participants to have gained skills in identifying possibilities to strengthen their organization."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 
 tags:
 - Leadership
-featured: true
+featured: false
 
 links:
 - name: WONCA World Conference 2018
@@ -39,7 +39,7 @@ url_project: ''
 url_slides: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""

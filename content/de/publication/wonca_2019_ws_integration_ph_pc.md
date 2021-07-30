@@ -22,16 +22,16 @@ publication: In *WONCA Europe Conference 2019*
 publication_short: In *WE 2019*
 
 abstract: "**Introduction/Aim:** Family doctors (FDs) are increasingly faced with the challenges of dealing with an aging population and non-communicable diseases. The Astana declaration again puts an emphasis on the role of Primary Health Care (PHC), fostered by the integration of Primary Care (PC) and Public Health (PH) and WONCA reacted to it by underlining the role of FD and released a joint report on the integration with WHO. These integration requires involvement of FDs and their practice. However, PH approach might face difficulties at the practice level due to some barriers. The objective of the workshop is to encourage FDs to reflect on several dimensions of the integration of PC and PH at their practice level and to share strategies on how to achieve this.
-**Methods:** This 75-mins workshop will be delivered by FDs with a special interest in PH and its integration into PC. After the introduction, participants will split into small groups to analyse the opportunities and barriers of the integration. The results of the group work along with country-specific examples will be shared with all participants and will be set in context with the current efforts of WHO and WONCA in this field. 
+**Methods:** This 75-mins workshop will be delivered by FDs with a special interest in PH and its integration into PC. After the introduction, participants will split into small groups to analyse the opportunities and barriers of the integration. The results of the group work along with country-specific examples will be shared with all participants and will be set in context with the current efforts of WHO and WONCA in this field.
 **Results and Conclusion:** The integration is of key importance to improve population health. FDs can play a significant role in this. By attending this workshop, the participants will reflect on the possibilities of integrating PH aspects on a practice level and will be able to learn from international examples."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary:
 
 tags:
-- Public Health 
+- Public Health
 - Primary Care
-featured: true
+featured: false
 
 links:
 - name: WONCA Europe Conference 2019
@@ -41,7 +41,7 @@ url_project: ''
 url_slides: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
